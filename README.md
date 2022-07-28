@@ -18,8 +18,8 @@ ATA is a national Organisation of Telugu speaking people in USA. The main purpos
  
 <div>
     <img src="images/appstore.png" style="vertical-align: middle;" width="100px"/>
-  <a href="https://apps.apple.com/in/app/ata-conference/id1626614201">Click here to Download</a>
-    <span style="vertical-align: middle;">Here is some text.</span>
+ 
+    <span style="vertical-align: middle;"><a href="https://apps.apple.com/in/app/ata-conference/id1626614201">Click here to Download</a></span>
 </div>
 
 ## Table of Contents
