@@ -79,22 +79,22 @@ Our vision is to connect the people stuck in any sort of difficult situations wi
 # ATA Conference App
 
 ## Home Screen
- <kbd><img src="1.png"/></kbd>
+ <kbd><img src="images/1.png"/></kbd>
  
 ## Map Interface
- <kbd><img src="2.png"/></kbd>
+ <kbd><img src="images/2.png"/></kbd>
  
 ## Articles
- <kbd><img src="3.png"/></kbd>
- <kbd><img src="3.png" /></kbd>
+ <kbd><img src="images/3.png"/></kbd>
+ <kbd><img src="images/3.png" /></kbd>
  
 ## User Profile
- <kbd><img src="4.png"/></kbd>
+ <kbd><img src="images/4.png"/></kbd>
  
  ## User Profile
- <kbd><img src="5.png"/></kbd>
+ <kbd><img src="images/5.png"/></kbd>
  
  ## User Profile
- <kbd><img src="6.png"/></kbd>
+ <kbd><img src="images/6.png"/></kbd>
 
 
