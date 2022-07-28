@@ -12,25 +12,24 @@ ATA is a national Organisation of Telugu speaking people in USA. The main purpos
 
 
 ## To Download Application 
- <img src="images/appstore.png" width="30" height="30" target='_blank' /> IOS : <a href="https://apps.apple.com/in/app/ata-conference/id1626614201">Click here to Download</a>
+<!--  <img src="images/appstore.png" width="30" height="30" target='_blank' /> IOS : <a href="https://apps.apple.com/in/app/ata-conference/id1626614201">Click here to Download</a>
  <br>
  <br>
  <img src="images/playstore.jpeg" width="30" height="30" target='_blank' /> Android : <a href="https://play.google.com/store/apps/details?id=com.ataevents.intAppone">Click here to Download</a>
+  -->
  
- 
- Using mobile? No problem, you can either use your mobile web browser or our fully-featured
-mobile apps:
+> Click the below icons to download the application : 
 
 | Android | iOS |
 |:-:|:-:|
 | [<img src="images/google-play.png" height="50" target='_blank' >](https://play.google.com/store/apps/details?id=com.ataevents.intAppone)| [<img src="images/app-store.png" height="50" target='_blank' >](https://apps.apple.com/in/app/ata-conference/id1626614201) |
 
-If you are feeling adventurous and want to get an early scoop of the features as they are being
+<!-- If you are feeling adventurous and want to get an early scoop of the features as they are being
 developed you can also sign up for our open beta testing here:
 
 * [Android]([https://play.google.com/store/apps/details?id=com.ataevents.intAppone](https://play.google.com/store/apps/details?id=com.ataevents.intAppone))
 * [iOS]([https://apps.apple.com/in/app/ata-conference/id1626614201](https://apps.apple.com/in/app/ata-conference/id1626614201))
- 
+  -->
 
 ## Table of Contents
 
