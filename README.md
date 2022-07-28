@@ -10,6 +10,12 @@
 
 ATA is a national Organisation of Telugu speaking people in USA. The main purpose of the Organisation is to assist and promote literary, cultural, educational, social, economic, health and community activities of the people of Telugu origin as well as to promote exchange programs for students, scientists, and professionals of Telugu origin between the United States of America, Canada and India and other countries. ATA holds annual conferences every year to promote unity and integrity of the Telugu community 
 
+
+## To Download Application 
+
+> IOS : https://apps.apple.com/in/app/ata-conference/id1626614201
+> Android : https://play.google.com/store/apps/details?id=com.ataevents.intAppone
+
 ## Table of Contents
 
 * [Motive](#motive)
@@ -32,6 +38,7 @@ ATA is a national Organisation of Telugu speaking people in USA. The main purpos
 
 ATA Conference App mainly focuses on :
 - The people will have well organised and simpler user-flow to find the events.
+- Detailed description pages for each individual event.
 - The registered users will have an access to rate each events individually.
 - Authorities will get the access to the registration details and the average rating for each event.
 - Information & complete detail about the event and access to the resources by the ATA Organisation. 
