@@ -14,13 +14,9 @@ ATA is a national Organisation of Telugu speaking people in USA. The main purpos
 ## To Download Application 
  <img src="images/appstore.png" width="30" height="30" target='_blank' /> IOS : <a href="https://apps.apple.com/in/app/ata-conference/id1626614201">Click here to Download</a>
  <br>
+ <br>
  <img src="images/playstore.jpeg" width="30" height="30" target='_blank' /> Android : <a href="https://play.google.com/store/apps/details?id=com.ataevents.intAppone">Click here to Download</a>
  
-<div>
-    <img src="images/appstore.png" style="vertical-align: middle;" width="100px"/>
- 
-    <span style="vertical-align: middle;"><a href="https://apps.apple.com/in/app/ata-conference/id1626614201">Click here to Download</a></span>
-</div>
 
 ## Table of Contents
 
