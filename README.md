@@ -1,4 +1,4 @@
-# int_appone
+# ATA Conference App
 
 A new Flutter project.
 
