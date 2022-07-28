@@ -23,7 +23,7 @@ mobile apps:
 
 | Android | iOS |
 |:-:|:-:|
-| [<img src="images/google-play.png" height="50">](https://play.google.com/store/apps/details?id=org.jitsi.meet)| [<img src="images/app-store.png" height="50">](https://itunes.apple.com/us/app/jitsi-meet/id1165103905) |
+| [<img src="images/google-play.png" height="50" target='_blank' >](https://play.google.com/store/apps/details?id=com.ataevents.intAppone)| [<img src="images/app-store.png" height="50" target='_blank' >](https://apps.apple.com/in/app/ata-conference/id1626614201) |
 
 If you are feeling adventurous and want to get an early scoop of the features as they are being
 developed you can also sign up for our open beta testing here:
