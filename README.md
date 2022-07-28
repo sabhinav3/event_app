@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+ATA is a national Organisation of Telugu speaking people in USA. The main purpose of the Organisation is to assist and promote literary, cultural, educational, social, economic, health and community activities of the people of Telugu origin as well as to promote exchange programs for students, scientists, and professionals of Telugu origin between the United States of America, Canada and India and other countries. ATA holds annual conferences every year to promote unity and integrity of the Telugu community
