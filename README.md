@@ -17,6 +17,20 @@ ATA is a national Organisation of Telugu speaking people in USA. The main purpos
  <br>
  <img src="images/playstore.jpeg" width="30" height="30" target='_blank' /> Android : <a href="https://play.google.com/store/apps/details?id=com.ataevents.intAppone">Click here to Download</a>
  
+ 
+ Using mobile? No problem, you can either use your mobile web browser or our fully-featured
+mobile apps:
+
+| Android | Android (F-Droid) | iOS |
+|:-:|:-:|:-:|
+| [<img src="resources/img/google-play-badge.png" height="50">](https://play.google.com/store/apps/details?id=org.jitsi.meet) | [<img src="resources/img/f-droid-badge.png" height="50">](https://f-droid.org/en/packages/org.jitsi.meet/) | [<img src="resources/img/appstore-badge.png" height="50">](https://itunes.apple.com/us/app/jitsi-meet/id1165103905) |
+
+If you are feeling adventurous and want to get an early scoop of the features as they are being
+developed you can also sign up for our open beta testing here:
+
+* [Android]([https://play.google.com/apps/testing/org.jitsi.meet](https://play.google.com/store/apps/details?id=com.ataevents.intAppone))
+* [iOS]([https://testflight.apple.com/join/isy6ja7S](https://apps.apple.com/in/app/ata-conference/id1626614201))
+ 
 
 ## Table of Contents
 
