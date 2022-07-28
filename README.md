@@ -18,13 +18,14 @@ ATA is a national Organisation of Telugu speaking people in USA. The main purpos
  <img src="images/playstore.jpeg" width="30" height="30" target='_blank' /> Android : <a href="https://play.google.com/store/apps/details?id=com.ataevents.intAppone">Click here to Download</a>
   -->
  
-> Click the below icons to download the application : 
+> Click below to download the application : 
 
 | Android | iOS |
 |:-:|:-:|
 | [<img src="images/google-play.png" height="50" target='_blank' >](https://play.google.com/store/apps/details?id=com.ataevents.intAppone)| [<img src="images/app-store.png" height="50" target='_blank' >](https://apps.apple.com/in/app/ata-conference/id1626614201) |
 
-> To brief & download the App : 
+
+* For brief description & to Download the App : 
 <a href="[https://apps.apple.com/in/app/ata-conference/id1626614201](https://sabhinav.notion.site/ATA-Conference-App-4e4c37070da647b4aa5a4f637968c9f3)">Click Here</a>
 
 
