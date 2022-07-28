@@ -10,39 +10,22 @@
 
 ATA is a national Organisation of Telugu speaking people in USA. The main purpose of the Organisation is to assist and promote literary, cultural, educational, social, economic, health and community activities of the people of Telugu origin as well as to promote exchange programs for students, scientists, and professionals of Telugu origin between the United States of America, Canada and India and other countries. ATA holds annual conferences every year to promote unity and integrity of the Telugu community 
 
-- Life - Saving procedures digitized .
-- The Authorities and locals are the first one to save lives .
-
-
-> A BBC investigation revealed that
-> seriously ill and injured patients wait for more than an hour  
-> to access an Ambulance and for any medical assistance. 
-
 ## Table of Contents
 
 * [Motive](#motive)
-* [Project Video](#project-video)
 * [Features](#features)
 * [Technologies](#tech)
-* [Development](#development)
-* [Vision](#vision)
-* [App Preview](#sozo-app)
+* [App Preview](#ATA-Conference-App)
+  * [User Login Screen](#user-login-screen)
+  * [Welcome Screen](#welcome-screen)
   * [Home Screen](#home-screen)
-  * [Map Interface](#map-interface)
-  * [Articles](#articles)
-  * [Profile](#user-profile)
+  * [Events Screen](#explore-events-screen)
 
 
 ## Motive
 - To develop a simpler event flow application for the users.
 - To provide the event schedule, information and ratings for each and every individual programs.
 
-
-### Project Video 
-
-A walkthrough of this project is available :[here](https://youtu.be/LTRf5_ohiBI)
-
-[![SOZO working](http://img.youtube.com/vi/LTRf5_ohiBI/0.jpg)](http://www.youtube.com/watch?v=LTRf5_ohiBI "SOZO")
 
 
 ## Features
@@ -57,7 +40,7 @@ SOZO mainly focuses on :
 
 ## Tech
 
-SOZO uses Google Tecnologies :
+This App uses Google Tecnologies :
 
 - [Flutter](https://flutter.dev/docs) - Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 - [Firebase](https://firebase.google.com/docs) -  Google's mobile platform that helps you quickly develop high-quality apps
