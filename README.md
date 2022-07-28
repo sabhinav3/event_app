@@ -15,7 +15,7 @@ ATA is a national Organisation of Telugu speaking people in USA. The main purpos
 * [Motive](#motive)
 * [Features](#features)
 * [Technologies](#tech)
-* [App Preview](#ATA-Conference-App)
+* [App Preview](#ata-conference)
   * [User Login Screen](#user-login-screen)
   * [Welcome Screen](#welcome-screen)
   * [Home Screen](#home-screen)
@@ -30,11 +30,11 @@ ATA is a national Organisation of Telugu speaking people in USA. The main purpos
 
 ## Features
 
-SOZO mainly focuses on :
-- The people will be the first responders.
-- The Auothorities and locals are the first one to save lifes .
-- Access location and save people.
-- Many Articles to educate people about safety & health. 
+ATA Conference App mainly focuses on :
+- The people will have well organised and simpler user-flow to find the events.
+- The registered users will have an access to rate each events individually.
+- Authorities will get the access to the registration details and the average rating for each event.
+- Information & complete detail about the event and access to the resources by the ATA Organisation. 
 
 
 
@@ -46,7 +46,7 @@ This App uses Google Tecnologies :
 - [Firebase](https://firebase.google.com/docs) -  Google's mobile platform that helps you quickly develop high-quality apps
 - [Android](https://codelabs.developers.google.com/?authuser=1) - Mobile Operating System 
 
-# ATA Conference App
+# ATA Conference
 
 ## User Login Screen
  <kbd><img src="images/login.jpg" width="200" height="400" /></kbd>
