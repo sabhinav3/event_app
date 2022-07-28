@@ -79,7 +79,7 @@ Our vision is to connect the people stuck in any sort of difficult situations wi
 # ATA Conference App
 
 ## Home Screen
- <kbd><img src="images/1.png" width="500" height="600" /></kbd>
+ <kbd><img src="images/1.png" width="250" height="400" /></kbd>
  
 ## Map Interface
  <kbd><img src="images/2.png"/></kbd>
