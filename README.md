@@ -76,19 +76,25 @@ You can even help a person near you with the help of this application which aler
 
 Our vision is to connect the people stuck in any sort of difficult situations with those who are ready to extend their help. The app serves to bridge and connect the needy with a volunteer in a most efficient way and on a real time basis.
 
-# SOZO App
+# ATA Conference App
 
 ## Home Screen
- <kbd><img src="home.png"/></kbd>
+ <kbd><img src="1.png"/></kbd>
  
 ## Map Interface
- <kbd><img src="map.png"/></kbd>
+ <kbd><img src="2.png"/></kbd>
  
 ## Articles
- <kbd><img src="article_1.png"/></kbd>
- <kbd><img src="article_2.png" /></kbd>
+ <kbd><img src="3.png"/></kbd>
+ <kbd><img src="3.png" /></kbd>
  
 ## User Profile
- <kbd><img src="user_profile.png"/></kbd>
+ <kbd><img src="4.png"/></kbd>
+ 
+ ## User Profile
+ <kbd><img src="5.png"/></kbd>
+ 
+ ## User Profile
+ <kbd><img src="6.png"/></kbd>
 
 
